@@ -1,0 +1,11 @@
+# 生成的自验证程序（运行 Generater 产生，不纳入版本控制）
+obfuscated_output.cpp
+Generater/obfuscated_output.cpp
+
+# 构建产物
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.exe
+*.obj
+*.o
